@@ -1,39 +1,16 @@
-# Professional Profile
+# Perfil Profesional
 
-## Alexis García
+Soy un apasionado de la tecnología y el desarrollo de software. Estudié en la Escuela Superior Politécnica de Chimborazo (ESPOCH), donde adquirí sólidos conocimientos en computación y programación.\
 
-- **Email:** alexis.garcia@espoch.edu.ec
-- **Expertise:** Data Science and Data Engineering
+Me especializo en el desarrollo de aplicaciones web y me encanta trabajar en proyectos desafiantes que me permitan aprender y crecer profesionalmente.
 
-### Summary
+# Contacto
 
-Alexis García is a highly skilled professional with significant expertise in Data Science and Data Engineering. With a strong background in statistical analysis, machine learning, and data architecture, Alexis excels in transforming complex data into actionable insights.  
+Correo electrónico: cristian1794@example.com\
+Teléfono: +593 99234 5678
 
-### Skills
+# Proyectos
 
-- Data Analysis
-- Machine Learning
-- Data Engineering
-- Data Visualization
-- Big Data Technologies
-- SQL and NoSQL Databases
-- Python, R, and SQL Programming
-
-### Education
-
-- Bachelor's Degree in Computer Science
-- Master's Degree in Data Science
-
-### Experience
-
-- **Data Analyst** at XYZ Corporation 
-  - Developed predictive models to enhance decision-making processes.
-  - Collaborated with cross-functional teams to analyze and interpret complex datasets.
-
-- **Data Engineer** at ABC Enterprises
-  - Designed and maintained scalable data pipelines.
-  - Implemented ETL processes to ensure efficient data flow.
-
-### Contact
-
-For professional inquiries, please reach out via email at [alexis.garcia@espoch.edu.ec](mailto:alexis.garcia@espoch.edu.ec).
+1. **Sistema de Gestión de Ventas** - Una aplicación web que permite a las pequeñas empresas llevar el control de sus ventas y clientes.
+2. **Portfolio Personal** - Un sitio web donde muestro mis proyectos y habilidades.
+3. **Aplicación de Tareas Pendientes** - Una herramienta web para gestionar tareas y recordatorios.
